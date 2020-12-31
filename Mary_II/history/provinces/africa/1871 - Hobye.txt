@@ -1,0 +1,8 @@
+owner=PTE
+controller=PTE
+add_core=AJU
+add_core=MRE
+add_core=PTE
+add_core=SOM
+trade_goods = grain
+life_rating = 15

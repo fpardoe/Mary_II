@@ -1,0 +1,360 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=145678
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=9308
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=11352
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=149291
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=9538
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=13544
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2201
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=643
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=542
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=5688
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=30887
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=327
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=1532
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=32414
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=343
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=2713
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=441
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=88
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=570
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=64917
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=3837
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=6359
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=253904
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=15009
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=17451
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2836
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=524
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=698
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=7329
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=30524
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=327
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=1895
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=32033
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=343
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=2713
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=441
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=88
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=570
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=31147
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=327
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=1272
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=32687
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=343
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=2713
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=441
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=88
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=570
+	}
+
+}

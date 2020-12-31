@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=USA
+add_core=CHE
+add_core=SPA
+trade_goods = coal
+life_rating = 35

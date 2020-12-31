@@ -1,0 +1,9 @@
+owner=SPA
+controller=SPA
+add_core=AMD
+add_core=MRT
+add_core=GOC
+add_core=SPA
+add_core=HND
+trade_goods = tea
+life_rating = 32

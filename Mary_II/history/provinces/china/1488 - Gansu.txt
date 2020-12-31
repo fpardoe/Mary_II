@@ -1,0 +1,8 @@
+owner=YRK
+controller=YRK
+add_core=YRK
+add_core=ZUN
+add_core=CSH
+add_core=CHI
+trade_goods = cotton
+life_rating = 32

@@ -1,0 +1,8 @@
+owner=TUR
+controller=TUR
+add_core=TUR
+add_core=WRL
+add_core=ADA
+add_core=SOM
+trade_goods = cotton
+life_rating = 15

@@ -1,0 +1,15 @@
+owner=BRN
+controller=BRN
+add_core=BRN
+add_core=MEC
+add_core=POM
+add_core=GER
+add_core=HRE
+trade_goods = grain
+life_rating = 40
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

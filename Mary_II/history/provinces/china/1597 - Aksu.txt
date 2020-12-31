@@ -1,0 +1,7 @@
+owner=YRK
+controller=YRK
+add_core=YRK
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32
+fort = 2

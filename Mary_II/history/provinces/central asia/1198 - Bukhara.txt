@@ -1,0 +1,8 @@
+owner=PER
+controller=PER
+add_core=BUK
+add_core=PER
+add_core=KAZ
+add_core=TKS
+trade_goods = wool
+life_rating = 35

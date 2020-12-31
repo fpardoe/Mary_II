@@ -1,0 +1,6 @@
+owner=X03
+controller=X03
+add_core=X03
+add_core=BUG
+trade_goods = cotton
+life_rating = 15

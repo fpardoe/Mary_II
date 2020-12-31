@@ -1,0 +1,8 @@
+owner=MUG
+controller=MUG
+add_core=MUG
+add_core=GUG
+add_core=AWA
+add_core=HND
+trade_goods = tea
+life_rating = 25

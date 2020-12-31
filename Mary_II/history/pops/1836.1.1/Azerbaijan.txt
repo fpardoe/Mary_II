@@ -1,0 +1,537 @@
+1102 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1501
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=926
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=159
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=12
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=207
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=72151
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=516
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=2864
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=492
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=38
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=640
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=20976
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1103 = {
+	soldiers=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=3298
+	}
+
+	craftsmen=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=6596
+	}
+
+	clergymen=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=1072
+	}
+
+	clerks=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=280
+	}
+
+	officers=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=132
+	}
+
+	capitalists=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=138
+	}
+
+	aristocrats=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=2770
+	}
+
+	farmers=
+	{
+		culture = north_caucasian
+		religion = shiite
+		size=147784
+	}
+
+}
+1104 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1531
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1014
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=165
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=13
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=213
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=73567
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=516
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=3080
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=500
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=38
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=647
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=20950
+	}
+
+}
+1105 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1131
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=143
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=23
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=2
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=30
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=55210
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=987
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=4093
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=665
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=51
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=113
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=860
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=42605
+	}
+
+}
+1106 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size=2744
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size=5488
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size=892
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size=69
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size=151
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size=1153
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size=126710
+	}
+
+}
+1107 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1501
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=985
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=160
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=12
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=207
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=72151
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=516
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=3049
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=495
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=38
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=640
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size=20976
+	}
+
+}

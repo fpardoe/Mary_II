@@ -1,0 +1,8 @@
+owner=SMZ
+controller=SMZ
+add_core=ITO
+add_core=SMZ
+add_core=JAP
+trade_goods = tobacco
+life_rating = 35
+fort = 2

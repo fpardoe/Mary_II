@@ -1,0 +1,32 @@
+vassal=
+{
+	first="TUR"
+	second="MOL"
+	start_date="1691.7.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="TUR"
+	second="GHD"
+	start_date="1799.5.6"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="MUG"
+	second="CHG"
+	start_date="1737.4.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AYR"
+	second="KBO"
+	start_date="1802.7.3"
+	end_date="1936.1.1"
+}
+

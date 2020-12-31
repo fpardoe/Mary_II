@@ -1,0 +1,6 @@
+owner=UES
+controller=UES
+add_core=JAP
+add_core=UES
+trade_goods = tea
+life_rating = 35

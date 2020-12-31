@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=MTR
+add_core=BNT
+add_core=JAV
+trade_goods = coffee
+life_rating = 30

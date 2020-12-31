@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=BLM
+add_core=FRA
+add_core=MTR
+add_core=JAV
+trade_goods = fruit
+life_rating = 30

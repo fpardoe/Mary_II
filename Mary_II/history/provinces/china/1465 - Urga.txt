@@ -1,0 +1,9 @@
+owner=MNG
+controller=MNG
+add_core=YRK
+add_core=KLK
+add_core=MNG
+add_core=KHA
+add_core=MGL
+trade_goods = cattle
+life_rating = 32

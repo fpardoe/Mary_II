@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=LIG
+add_core=BUR
+add_core=MLY
+trade_goods = timber
+life_rating = 30

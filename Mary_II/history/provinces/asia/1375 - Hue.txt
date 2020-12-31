@@ -1,0 +1,8 @@
+owner=MNG
+controller=MNG
+add_core=ANN
+add_core=DAI
+add_core=MNG
+add_core=IDO
+trade_goods = grain
+life_rating = 30

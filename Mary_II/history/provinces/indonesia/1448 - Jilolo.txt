@@ -1,0 +1,7 @@
+owner=TTE
+controller=TTE
+add_core=TTE
+add_core=MAL
+trade_goods = fish
+life_rating = 30
+fort = 2

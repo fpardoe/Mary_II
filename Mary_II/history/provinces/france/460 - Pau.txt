@@ -1,0 +1,9 @@
+owner=FRA
+controller=SPA
+add_core=FRA
+add_core=NAV
+add_core=SPA
+add_core=BSQ
+trade_goods = grain
+life_rating = 32
+naval_base = 1

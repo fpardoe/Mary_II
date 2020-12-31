@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ZZZ
+add_core=DAH
+add_core=NUP
+trade_goods = grain
+life_rating = 35

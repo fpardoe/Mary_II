@@ -1,0 +1,1315 @@
+2247 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size=5580
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size=98365
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=13387
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=16336
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2655
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=490
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=653
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=5146
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=200380
+	}
+
+}
+2248 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=1065
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=56464
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2555
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=19640
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1418
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=262
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=175
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=3666
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=100017
+	}
+
+}
+2249 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size=4045
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size=73596
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=9668
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=26559
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1918
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=354
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=472
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2479
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=131202
+	}
+
+}
+2250 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=728
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=38569
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1805
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=13826
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=999
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=184
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=123
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1290
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=72048
+	}
+
+}
+2251 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size=2890
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size=52567
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=9668
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=26559
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1918
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=354
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=472
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2479
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=131202
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=168
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=8842
+	}
+
+}
+2252 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=1952
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=95838
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=3398
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=44555
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2069
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=605
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=255
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=5347
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=113687
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=162
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=8530
+	}
+
+}
+2253 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=524
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=27288
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1660
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=5503
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=894
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=165
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=110
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1156
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=73488
+	}
+
+}
+2254 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=1163
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=59882
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=3066
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=10361
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1684
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=311
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=207
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=3264
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=134408
+	}
+
+}
+2255 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size=69
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=220
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=11346
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=585
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1845
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=6224
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1011
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=187
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2614
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=79679
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size=93
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=296
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=15076
+	}
+
+}
+2256 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=459
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=23791
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1307
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=4380
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=712
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=131
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1380
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=57356
+	}
+
+}
+2257 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size=775
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size=40017
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2206
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=7395
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1202
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=222
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=148
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1553
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=97597
+	}
+
+}
+2258 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=459
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=23791
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1307
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=4380
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=712
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=131
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1380
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=57356
+	}
+
+}
+2259 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size=627
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size=34073
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2678
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=20197
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1459
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=269
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=180
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=3770
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=105369
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=144
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=7499
+	}
+
+}
+2260 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size=122
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size=6541
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=855
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=6783
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=490
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=90
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1266
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=33227
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=163
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=8293
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=163
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=8293
+	}
+
+}
+2261 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size=122
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size=6541
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=855
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=6783
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=490
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=90
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=1266
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=33227
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=163
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=8293
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=163
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=8293
+	}
+
+}
+2262 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=329
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=16467
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=749
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2684
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=436
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=81
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=564
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=32863
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=122
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=6122
+	}
+
+}
+2263 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size=184
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size=9812
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size=468
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size=3574
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size=258
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size=48
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size=667
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size=18367
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=211
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=11296
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=539
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=4114
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=297
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=55
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=768
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=21145
+	}
+
+}

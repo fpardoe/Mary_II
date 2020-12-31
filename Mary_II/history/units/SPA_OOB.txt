@@ -1,0 +1,2768 @@
+#Sphere of Influence
+
+	ABB=
+	{
+		value=0
+		level=2
+	}
+	ABE=
+	{
+		value=94
+		level=2
+	}
+	AIN=
+	{
+		value=34
+		level=2
+	}
+	ALD=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=91
+		level=2
+	}
+	ARN=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=88
+		level=2
+	}
+	ARW=
+	{
+		value=0
+		level=2
+	}
+	ASI=
+	{
+		value=82
+		level=2
+	}
+	AUS=
+	{
+		value=88
+		level=2
+	}
+	AYR=
+	{
+		value=88
+		level=2
+	}
+	BAV=
+	{
+		value=94
+		level=2
+	}
+	BEN=
+	{
+		value=97
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BRD=
+	{
+		value=88
+		level=2
+	}
+	BRE=
+	{
+		value=88
+		level=2
+	}
+	BRN=
+	{
+		value=73
+		level=2
+	}
+	BRU=
+	{
+		value=-40
+		level=2
+	}
+	BRZ=
+	{
+		value=91
+		level=2
+	}
+	BUR=
+	{
+		value=85
+		level=2
+	}
+	CAN=
+	{
+		value=91
+		level=2
+	}
+	CHU=
+	{
+		value=43
+		level=2
+	}
+	CLM=
+	{
+		value=91
+		level=2
+	}
+	COM=
+	{
+		value=40
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=96
+		level=2
+	}
+	DAH=
+	{
+		value=51
+		level=2
+	}
+	DAR=
+	{
+		value=76
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	ELS=
+	{
+		value=88
+		level=2
+	}
+	ENG=
+	{
+		value=100
+		level=2
+	}
+	ENL=
+	{
+		value=0
+		level=2
+	}
+	FOX=
+	{
+		value=94
+		level=2
+	}
+	FRA=
+	{
+		value=-143
+		level=2
+	}
+	FUL=
+	{
+		value=43
+		level=2
+	}
+	GBU=
+	{
+		value=97
+		level=2
+	}
+	GHD=
+	{
+		value=0
+		level=2
+	}
+	GOC=
+	{
+		value=0
+		level=2
+	}
+	GRA=
+	{
+		value=0
+		level=2
+	}
+	GRI=
+	{
+		value=0
+		level=2
+	}
+	GZK=
+	{
+		value=79
+		level=2
+	}
+	HDA=
+	{
+		value=0
+		level=2
+	}
+	HDJ=
+	{
+		value=0
+		level=2
+	}
+	HUN=
+	{
+		value=0
+		level=2
+	}
+	HUR=
+	{
+		value=79
+		level=2
+	}
+	IME=
+	{
+		value=97
+		level=2
+	}
+	IRE=
+	{
+		value=105
+		level=2
+	}
+	ITZ=
+	{
+		value=94
+		level=2
+	}
+	KBO=
+	{
+		value=99
+		level=2
+	}
+	KLE=
+	{
+		value=82
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KNG=
+	{
+		value=94
+		level=2
+	}
+	KNI=
+	{
+		value=79
+		level=2
+	}
+	KOR=
+	{
+		value=70
+		level=2
+	}
+	KRC=
+	{
+		value=43
+		level=2
+	}
+	LBR=
+	{
+		value=0
+		level=2
+	}
+	LND=
+	{
+		value=0
+		level=2
+	}
+	LNO=
+	{
+		value=-16
+		level=2
+	}
+	LOA=
+	{
+		value=62
+		level=2
+	}
+	LPN=
+	{
+		value=0
+		level=2
+	}
+	LUB=
+	{
+		value=46
+		level=2
+	}
+	MAG=
+	{
+		value=120
+		level=2
+	}
+	MDR=
+	{
+		value=0
+		level=2
+	}
+	MHR=
+	{
+		value=0
+		level=2
+	}
+	MJZ=
+	{
+		value=97
+		level=2
+	}
+	MKS=
+	{
+		value=88
+		level=2
+	}
+	MLI=
+	{
+		value=25
+		level=2
+	}
+	MLW=
+	{
+		value=189
+		level=2
+	}
+	MNG=
+	{
+		value=-113
+		level=2
+	}
+	MOL=
+	{
+		value=-82
+		level=2
+	}
+	MON=
+	{
+		value=88
+		level=2
+	}
+	MRI=
+	{
+		value=123
+		level=2
+	}
+	MSC=
+	{
+		value=0
+		level=2
+	}
+	MSK=
+	{
+		value=0
+		level=2
+	}
+	MUG=
+	{
+		value=-175
+		level=2
+	}
+	MZB=
+	{
+		value=79
+		level=2
+	}
+	NAS=
+	{
+		value=94
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=-85
+		level=2
+	}
+	OSA=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=96
+		level=2
+	}
+	PAW=
+	{
+		value=0
+		level=2
+	}
+	PEQ=
+	{
+		value=82
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=88
+		level=2
+	}
+	PIM=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=87
+		level=2
+	}
+	POM=
+	{
+		value=19
+		level=2
+	}
+	POW=
+	{
+		value=97
+		level=2
+	}
+	PRG=
+	{
+		value=94
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=82
+		level=2
+	}
+	QUE=
+	{
+		value=-117
+		level=2
+	}
+	RUS=
+	{
+		value=77
+		level=2
+	}
+	RYU=
+	{
+		value=34
+		level=2
+	}
+	SAL=
+	{
+		value=0
+		level=2
+	}
+	SGH=
+	{
+		value=97
+		level=2
+	}
+	SIO=
+	{
+		value=79
+		level=2
+	}
+	SKA=
+	{
+		value=85
+		level=2
+	}
+	SMI=
+	{
+		value=40
+		level=2
+	}
+	SMZ=
+	{
+		value=88
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SVY=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=37
+		level=2
+	}
+	SWI=
+	{
+		value=91
+		level=2
+	}
+	TPA=
+	{
+		value=0
+		level=2
+	}
+	TPQ=
+	{
+		value=0
+		level=2
+	}
+	TRI=
+	{
+		value=0
+		level=2
+	}
+	TTE=
+	{
+		value=88
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=-111
+		level=2
+	}
+	TUS=
+	{
+		value=132
+		level=2
+	}
+	UBH=
+	{
+		value=79
+		level=2
+	}
+	UES=
+	{
+		value=-7
+		level=2
+	}
+	USA=
+	{
+		value=34
+		level=2
+	}
+	VEN=
+	{
+		value=98
+		level=2
+	}
+	VER=
+	{
+		value=76
+		level=2
+	}
+	WBG=
+	{
+		value=52
+		level=2
+	}
+	X01=
+	{
+		value=88
+		level=2
+	}
+	X02=
+	{
+		value=71
+		level=2
+	}
+	X07=
+	{
+		value=79
+		level=2
+	}
+	X08=
+	{
+		value=2
+		level=2
+	}
+	X09=
+	{
+		value=91
+		level=2
+	}
+	X10=
+	{
+		value=94
+		level=2
+	}
+	X11=
+	{
+		value=88
+		level=2
+	}
+	X12=
+	{
+		value=91
+		level=2
+	}
+	X13=
+	{
+		value=70
+		level=2
+	}
+	X14=
+	{
+		value=85
+		level=2
+	}
+	XIU=
+	{
+		value=94
+		level=2
+	}
+	YAQ=
+	{
+		value=0
+		level=2
+	}
+	YKT=
+	{
+		value=0
+		level=2
+	}
+	YRK=
+	{
+		value=97
+		level=2
+	}
+	ZZZ=
+	{
+		value=76
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="Flota de RosellÃ³n"
+	location=2727
+	ship = {
+		name="1st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canary Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Setubal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fukuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Massa Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Palencia"
+	location=1158
+	regiment = {
+		name="1st Lérida Infantry"
+		type=infantry
+		home=500
+	}
+	regiment = {
+		name="1st Mascara Infantry"
+		type=infantry
+		home=1707
+	}
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Lérida Artillery"
+		type=artillery
+		home=500
+	}
+	regiment = {
+		name="1st Rabat Artillery"
+		type=artillery
+		home=1685
+	}
+}
+
+army = {
+	name="Guardia Real"
+	location=443
+	regiment = {
+		name="1st Granada Infantry"
+		type=infantry
+		home=513
+	}
+	regiment = {
+		name="1st Cartagena Infantry"
+		type=infantry
+		home=506
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="2nd Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="1st Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="1st Ávila Artillery"
+		type=artillery
+		home=483
+	}
+	regiment = {
+		name="1st Cartagena Artillery"
+		type=artillery
+		home=506
+	}
+	regiment = {
+		name="12th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Luanda"
+	location=2036
+	regiment = {
+		name="11th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="2nd Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+}
+
+army = {
+	name="Armee von Leipzig"
+	location=402
+	regiment = {
+		name="2nd Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="3rd Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="4th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="3rd Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="3rd Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Pattani"
+	location=443
+	regiment = {
+		name="1st Murcia Infantry"
+		type=infantry
+		home=507
+	}
+	regiment = {
+		name="1st Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=477
+	}
+	regiment = {
+		name="1st Santander Artillery"
+		type=artillery
+		home=478
+	}
+	regiment = {
+		name="1st La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="2nd Cartagena Artillery"
+		type=artillery
+		home=506
+	}
+	regiment = {
+		name="1st Castellón Cavalry"
+		type=cavalry
+		home=504
+	}
+	regiment = {
+		name="1st Córdoba Artillery"
+		type=artillery
+		home=510
+	}
+}
+
+army = {
+	name="12th Army"
+	location=460
+	regiment = {
+		name="4th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Málaga Artillery"
+		type=artillery
+		home=514
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Abruzos"
+	location=410
+	regiment = {
+		name="2nd Granada Infantry"
+		type=infantry
+		home=513
+	}
+	regiment = {
+		name="1st Logroño Infantry"
+		type=infantry
+		home=494
+	}
+	regiment = {
+		name="1st Ciudad Real Infantry"
+		type=infantry
+		home=491
+	}
+	regiment = {
+		name="5th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Santander Infantry"
+		type=infantry
+		home=478
+	}
+	regiment = {
+		name="1st Granada Artillery"
+		type=artillery
+		home=513
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2847
+	ship = {
+		name="1st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Carcassonne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Coruña Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mindoro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Alicante Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2921
+	ship = {
+		name="1st Oran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vigan Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=408
+	regiment = {
+		name="6th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="7th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="5th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="6th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="7th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="8th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Cáceres Artillery"
+		type=artillery
+		home=486
+	}
+	regiment = {
+		name="10th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="1st Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Cannanore"
+	location=1141
+	regiment = {
+		name="9th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Almería Artillery"
+		type=artillery
+		home=515
+	}
+	regiment = {
+		name="1st Toledo Artillery"
+		type=artillery
+		home=489
+	}
+	regiment = {
+		name="2nd Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Bougie Cavalry"
+		type=cavalry
+		home=1701
+	}
+	regiment = {
+		name="1st Albacete Artillery"
+		type=artillery
+		home=508
+	}
+}
+
+army = {
+	name="EjÃ©rcito de Oujda"
+	location=587
+	regiment = {
+		name="2nd Toledo Infantry"
+		type=infantry
+		home=489
+	}
+}
+
+army = {
+	name="6th Army"
+	location=410
+	regiment = {
+		name="12th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2849
+	ship = {
+		name="2nd La Coruña Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Granada Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Almería Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Valencia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=2746
+	ship = {
+		name="1st Santander Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th La Coruña Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2814
+	ship = {
+		name="3rd La Coruña Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="43rd Army"
+	location=468
+	regiment = {
+		name="8th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+}
+
+navy = {
+	name="Flota de Straits of Gibraltar"
+	location=2924
+	ship = {
+		name="1st Barcelona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gibraltar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Brieuc Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Spanish Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Valencia"
+	location=2744
+	ship = {
+		name="1st Bilbao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Balearic Islands Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2136
+	regiment = {
+		name="10th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="9th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="11th Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="2nd Almería Artillery"
+		type=artillery
+		home=515
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2947
+	ship = {
+		name="2nd Mindoro Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Tsushima"
+	location=2831
+	ship = {
+		name="1st Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bilbao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Granada Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bilbao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Legazpi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Manila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Galápagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Laizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bilbao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zamboanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tacloban Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tacloban Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=204
+	ship = {
+		name="1st St Augustine Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=204
+	ship = {
+		name="2nd St Augustine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd St Augustine Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=58
+	regiment = {
+		name="1st St Augustine Infantry"
+		type=infantry
+		home=199
+	}
+}
+
+army = {
+	name="1st Army"
+	location=57
+	regiment = {
+		name="2nd St Augustine Infantry"
+		type=infantry
+		home=199
+	}
+	regiment = {
+		name="1st Wilmington Infantry"
+		type=infantry
+		home=210
+	}
+	regiment = {
+		name="1st St Augustine Cavalry"
+		type=cavalry
+		home=199
+	}
+	regiment = {
+		name="1st Charlotte Artillery"
+		type=artillery
+		home=209
+	}
+	regiment = {
+		name="2nd St Augustine Cavalry"
+		type=cavalry
+		home=199
+	}
+	regiment = {
+		name="1st Charleston Artillery"
+		type=artillery
+		home=205
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=63
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="1st Oklahoma City Infantry"
+		type=infantry
+		home=129
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st Topeka Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="1st Toluca Artillery"
+		type=artillery
+		home=2174
+	}
+	regiment = {
+		name="1st Campeche Artillery"
+		type=artillery
+		home=2184
+	}
+	regiment = {
+		name="1st Lubbock Artillery"
+		type=artillery
+		home=135
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2162
+	ship = {
+		name="1st Puerto Lempira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Collataro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Campeche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Spanish Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="6th Army"
+	location=124
+	regiment = {
+		name="2nd Toluca Artillery"
+		type=artillery
+		home=2174
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2162
+	ship = {
+		name="1st Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Los Albañiles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tepic Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2162
+	ship = {
+		name="1st Veracruz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st León Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tepic Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=3073
+	ship = {
+		name="1st San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quetzaltenango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd León Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Quetzaltenango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th San Salvador Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=2162
+	ship = {
+		name="2nd San Miguel Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2971
+	ship = {
+		name="1st San Salvador Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=38
+	regiment = {
+		name="1st Los Albañiles Infantry"
+		type=infantry
+		home=2171
+	}
+	regiment = {
+		name="1st Mazatlán Infantry"
+		type=infantry
+		home=2156
+	}
+	regiment = {
+		name="1st Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st Collataro Artillery"
+		type=artillery
+		home=2178
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="1st Oklahoma City Artillery"
+		type=artillery
+		home=129
+	}
+	regiment = {
+		name="1st Goodland Artillery"
+		type=artillery
+		home=127
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2943
+	ship = {
+		name="1st Minatitlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Miguel Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Quetzaltenango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mazatlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Quetzaltenango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Lempira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Collataro Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2814
+	ship = {
+		name="7th San Salvador Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=63
+	regiment = {
+		name="1st Durango Infantry"
+		type=infantry
+		home=2153
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=2209
+	ship = {
+		name="1st Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cayman Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jagua Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cap Haitien Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cayman Islands Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2253
+	regiment = {
+		name="1st Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Camagüey Infantry"
+		type=infantry
+		home=2211
+	}
+	regiment = {
+		name="2nd Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="2nd Camagüey Infantry"
+		type=infantry
+		home=2211
+	}
+	regiment = {
+		name="3rd Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+	regiment = {
+		name="1st Santo Domingo Artillery"
+		type=artillery
+		home=2214
+	}
+	regiment = {
+		name="2nd Santo Domingo Artillery"
+		type=artillery
+		home=2214
+	}
+	regiment = {
+		name="3rd Santo Domingo Artillery"
+		type=artillery
+		home=2214
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2212
+	regiment = {
+		name="1st Santiago de Cuba Infantry"
+		type=infantry
+		home=2212
+	}
+	regiment = {
+		name="1st Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+	regiment = {
+		name="2nd Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+	regiment = {
+		name="1st La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+	regiment = {
+		name="1st Santiago de Cuba Artillery"
+		type=artillery
+		home=2212
+	}
+	regiment = {
+		name="1st Santiago de Cuba Cavalry"
+		type=cavalry
+		home=2212
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2979
+	ship = {
+		name="1st Puerto Rico Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jagua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Rico Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Havana Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2969
+	ship = {
+		name="2nd Cayman Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2979
+	ship = {
+		name="2nd Cap Haitien Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jagua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Au Prince Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Jagua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cayman Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Jagua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santiago de Cuba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santiago de Cuba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Santiago de Cuba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cayman Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jagua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Santiago de Cuba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Santiago de Cuba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jagua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Camagüey Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2214
+	regiment = {
+		name="4th Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+	regiment = {
+		name="5th Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2208
+	regiment = {
+		name="1st Liberia Infantry"
+		type=infantry
+		home=2202
+	}
+	regiment = {
+		name="2nd Liberia Infantry"
+		type=infantry
+		home=2202
+	}
+	regiment = {
+		name="1st Penonomé Cavalry"
+		type=cavalry
+		home=2206
+	}
+	regiment = {
+		name="1st Yaviza Artillery"
+		type=artillery
+		home=2208
+	}
+	regiment = {
+		name="1st Panama City Artillery"
+		type=artillery
+		home=2204
+	}
+	regiment = {
+		name="3rd Liberia Infantry"
+		type=infantry
+		home=2202
+	}
+	regiment = {
+		name="2nd Yaviza Artillery"
+		type=artillery
+		home=2208
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2268
+	ship = {
+		name="1st Rivas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Guayaquil Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guayaquil Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Güiria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Güiria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Güiria Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2984
+	ship = {
+		name="6th Spanish Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2993
+	ship = {
+		name="1st San José Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yaviza Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3245
+	ship = {
+		name="1st Caracas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Panama City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Güiria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Guayaquil Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Liberia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guayaquil Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Güiria Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2268
+	regiment = {
+		name="1st Marabá Artillery"
+		type=artillery
+		home=2413
+	}
+	regiment = {
+		name="1st Mahdia Artillery"
+		type=artillery
+		home=2242
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2266
+	regiment = {
+		name="1st Liberia Artillery"
+		type=artillery
+		home=2202
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=3203
+	ship = {
+		name="5th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2982
+	ship = {
+		name="5th Güiria Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2268
+	ship = {
+		name="1st  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Spanish Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2298
+	ship = {
+		name="1st Tacna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tacna Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2288
+	regiment = {
+		name="1st Vila Bela Infantry"
+		type=infantry
+		home=2417
+	}
+	regiment = {
+		name="1st Potosí Cavalry"
+		type=cavalry
+		home=2314
+	}
+	regiment = {
+		name="1st Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="1st La Paz Cavalry"
+		type=cavalry
+		home=2310
+	}
+	regiment = {
+		name="1st Oruro Artillery"
+		type=artillery
+		home=2312
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2259
+	regiment = {
+		name="1st Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st San Ignacio Infantry"
+		type=infantry
+		home=2317
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2309
+	regiment = {
+		name="1st San Pedro Infantry"
+		type=infantry
+		home=2342
+	}
+	regiment = {
+		name="1st Pilar Infantry"
+		type=infantry
+		home=2340
+	}
+	regiment = {
+		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="1st Chillán Cavalry"
+		type=cavalry
+		home=2331
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2305
+	ship = {
+		name="1st Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buenos Aires Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2303
+	regiment = {
+		name="1st Cauquenes Infantry"
+		type=infantry
+		home=2330
+	}
+	regiment = {
+		name="1st Salta Cavalry"
+		type=cavalry
+		home=2368
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2137
+	ship = {
+		name="1st Guaymas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guaymas Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=38
+	regiment = {
+		name="1st Loreto Infantry"
+		type=infantry
+		home=2138
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=140
+	ship = {
+		name="1st Lake Charles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Biloxi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Baton Rouge Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2290
+	regiment = {
+		name="1st Santos Infantry"
+		type=infantry
+		home=2451
+	}
+	regiment = {
+		name="1st Vitória Artillery"
+		type=artillery
+		home=2449
+	}
+	regiment = {
+		name="1st Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+	regiment = {
+		name="1st Cabrobo Artillery"
+		type=artillery
+		home=2433
+	}
+	regiment = {
+		name="1st Vitória Infantry"
+		type=infantry
+		home=2449
+	}
+	regiment = {
+		name="1st São Paulo Cavalry"
+		type=cavalry
+		home=2450
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2447
+	ship = {
+		name="1st Fortaleza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salvador de Bahia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Maceió Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Salvador de Bahia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vitória Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rio de Janeiro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Iguape Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rio de Janeiro Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2256
+	regiment = {
+		name="1st Paracatu Infantry"
+		type=infantry
+		home=2444
+	}
+	regiment = {
+		name="1st Sabará Infantry"
+		type=infantry
+		home=2442
+	}
+	regiment = {
+		name="1st Sorocaba Infantry"
+		type=infantry
+		home=2306
+	}
+	regiment = {
+		name="1st Ouro Preto Infantry"
+		type=infantry
+		home=2441
+	}
+	regiment = {
+		name="2nd Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+	regiment = {
+		name="1st Campinas Infantry"
+		type=infantry
+		home=2452
+	}
+	regiment = {
+		name="1st Sorocaba Cavalry"
+		type=cavalry
+		home=2306
+	}
+	regiment = {
+		name="2nd Vitória Artillery"
+		type=artillery
+		home=2449
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=3052
+	ship = {
+		name="3rd Rio de Janeiro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Teresina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Iguape Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3043
+	ship = {
+		name="1st Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Vitória Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Porto Seguro Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3214
+	ship = {
+		name="1st Porto Seguro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fortaleza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Teresina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2259
+	regiment = {
+		name="1st Januária Artillery"
+		type=artillery
+		home=2443
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2290
+	regiment = {
+		name="1st La Plata Infantry"
+		type=infantry
+		home=2351
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2392
+	ship = {
+		name="1st Mar del Plata Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=197
+	ship = {
+		name="1st Tallahassee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tallahassee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tallahassee Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=52
+	regiment = {
+		name="1st Tallahassee Infantry"
+		type=infantry
+		home=198
+	}
+}
+
+army = {
+	name="1st Army"
+	location=32
+	regiment = {
+		name="1st Seattle Infantry"
+		type=infantry
+		home=78
+	}
+	regiment = {
+		name="1st Seattle Cavalry"
+		type=cavalry
+		home=78
+	}
+	regiment = {
+		name="1st Prince Rupert Artillery"
+		type=artillery
+		home=15
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3072
+	ship = {
+		name="1st Portland Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2911
+	ship = {
+		name="1st Portland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Seattle Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3135
+	ship = {
+		name="2nd Portland Frigate"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,7 @@
+owner=FRA
+controller=FRA
+add_core=X12
+add_core=FRA
+trade_goods = coal
+life_rating = 30
+colonial=2

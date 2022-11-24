@@ -1,7 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=POR
-add_core=SPA
-trade_goods = tropical_wood
-life_rating = 30
-colonial=2

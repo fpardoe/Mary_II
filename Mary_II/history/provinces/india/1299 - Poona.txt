@@ -1,9 +1,0 @@
-owner=MUG
-controller=MUG
-add_core=MRT
-add_core=MUG
-add_core=AMD
-add_core=GOC
-add_core=HND
-trade_goods = grain
-life_rating = 32

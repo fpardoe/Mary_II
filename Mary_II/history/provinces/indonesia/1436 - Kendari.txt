@@ -1,7 +1,0 @@
-owner=NET
-controller=NET
-add_core=MKS
-add_core=NET
-trade_goods = dye
-life_rating = 30
-colonial=2

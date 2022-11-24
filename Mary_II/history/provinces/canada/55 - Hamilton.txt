@@ -1,7 +1,0 @@
-owner=FRA
-controller=IRE
-add_core=QUE
-add_core=HUR
-add_core=FRA
-trade_goods = fish
-life_rating = 35

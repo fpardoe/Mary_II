@@ -1,8 +1,0 @@
-owner=FRA
-controller=FRA
-add_core=QUE
-add_core=MIK
-add_core=FRA
-trade_goods = fish
-life_rating = 35
-fort = 1

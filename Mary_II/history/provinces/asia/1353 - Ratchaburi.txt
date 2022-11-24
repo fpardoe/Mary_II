@@ -1,7 +1,0 @@
-owner=MNG
-controller=MNG
-add_core=SIA
-add_core=MNG
-add_core=IDO
-trade_goods = iron
-life_rating = 30

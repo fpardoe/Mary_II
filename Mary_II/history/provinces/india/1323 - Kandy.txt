@@ -1,8 +1,0 @@
-owner=MDR
-controller=MDR
-add_core=SRI
-add_core=MDR
-add_core=X04
-add_core=HND
-trade_goods = tea
-life_rating = 32

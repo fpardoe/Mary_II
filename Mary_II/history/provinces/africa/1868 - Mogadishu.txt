@@ -1,7 +1,0 @@
-owner=PTE
-controller=PTE
-add_core=PTE
-add_core=SOM
-trade_goods = cattle
-life_rating = 35
-naval_base = 1

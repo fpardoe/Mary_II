@@ -1,9 +1,0 @@
-owner=WRL
-controller=WRL
-add_core=AJU
-add_core=WRL
-add_core=MRE
-add_core=SOM
-trade_goods = grain
-life_rating = 15
-fort = 2

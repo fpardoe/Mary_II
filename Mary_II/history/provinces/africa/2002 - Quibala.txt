@@ -1,7 +1,0 @@
-owner=LND
-controller=LND
-add_core=LND
-add_core=NDO
-add_core=KON
-trade_goods = coffee
-life_rating = 25

@@ -1,7 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=MMI
-add_core=SHX
-add_core=SPA
-trade_goods = timber
-life_rating = 35

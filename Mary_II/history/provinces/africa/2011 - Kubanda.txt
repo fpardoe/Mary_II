@@ -1,6 +1,0 @@
-owner=LND
-controller=LND
-add_core=KSJ
-add_core=LND
-trade_goods = grain
-life_rating = 15

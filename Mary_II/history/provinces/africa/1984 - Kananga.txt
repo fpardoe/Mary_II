@@ -1,6 +1,0 @@
-owner=LND
-controller=LND
-add_core=LND
-add_core=YKA
-trade_goods = fruit
-life_rating = 15

@@ -1,7 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=MTA
-add_core=SPA
-add_core=ITA
-trade_goods = fruit
-life_rating = 35

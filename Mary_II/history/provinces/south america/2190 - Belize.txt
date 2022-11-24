@@ -1,5 +1,0 @@
-owner=ITZ
-controller=ITZ
-add_core=ITZ
-trade_goods = fruit
-life_rating = 30

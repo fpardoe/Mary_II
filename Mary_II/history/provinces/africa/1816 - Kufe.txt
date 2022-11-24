@@ -1,7 +1,0 @@
-owner=ZZZ
-controller=ZZZ
-add_core=AYR
-add_core=KBO
-add_core=ZZZ
-trade_goods = grain
-life_rating = 10

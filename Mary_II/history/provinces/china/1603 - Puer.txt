@@ -1,9 +1,0 @@
-owner=MNG
-controller=MNG
-add_core=CDL
-add_core=MNG
-add_core=IDO
-add_core=SHA
-add_core=BUR
-trade_goods = tea
-life_rating = 32

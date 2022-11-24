@@ -1,7 +1,0 @@
-owner=MKS
-controller=MKS
-add_core=BTN
-add_core=MKS
-add_core=MAL
-trade_goods = fish
-life_rating = 30

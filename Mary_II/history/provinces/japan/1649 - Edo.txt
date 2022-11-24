@@ -1,7 +1,0 @@
-owner=UES
-controller=UES
-add_core=JAP
-add_core=UES
-trade_goods = grain
-life_rating = 35
-fort = 1

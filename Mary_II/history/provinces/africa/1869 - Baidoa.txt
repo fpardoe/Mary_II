@@ -1,6 +1,0 @@
-owner=PTE
-controller=PTE
-add_core=PTE
-add_core=SOM
-trade_goods = cotton
-life_rating = 15

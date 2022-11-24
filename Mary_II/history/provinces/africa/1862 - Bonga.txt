@@ -1,7 +1,0 @@
-owner=TUR
-controller=TUR
-add_core=KAF
-add_core=TUR
-add_core=WLY
-trade_goods = grain
-life_rating = 30

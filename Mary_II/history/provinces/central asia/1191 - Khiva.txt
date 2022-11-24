@@ -1,8 +1,0 @@
-owner=PER
-controller=PER
-add_core=KHI
-add_core=PER
-add_core=SHY
-add_core=TKS
-trade_goods = wool
-life_rating = 35

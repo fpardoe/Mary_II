@@ -1,7 +1,0 @@
-owner=ZZZ
-controller=ZZZ
-add_core=ZZZ
-add_core=AYR
-add_core=KBO
-trade_goods = fish
-life_rating = 10

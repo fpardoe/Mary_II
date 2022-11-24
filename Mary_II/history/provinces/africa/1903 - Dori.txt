@@ -1,7 +1,0 @@
-owner=GBU
-controller=GBU
-add_core=GBU
-add_core=MOS
-add_core=SGH
-trade_goods = grain
-life_rating = 15

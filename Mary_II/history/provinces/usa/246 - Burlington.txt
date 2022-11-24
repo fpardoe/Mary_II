@@ -1,8 +1,0 @@
-owner=FRA
-controller=FRA
-add_core=MHC
-add_core=QUE
-add_core=FRA
-trade_goods = timber
-life_rating = 35
-colonial=2

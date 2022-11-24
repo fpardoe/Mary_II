@@ -1,6 +1,0 @@
-owner=LND
-controller=LND
-add_core=LND
-add_core=LOA
-trade_goods = timber
-life_rating = 15

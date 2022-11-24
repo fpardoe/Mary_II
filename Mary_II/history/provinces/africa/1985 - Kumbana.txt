@@ -1,8 +1,0 @@
-owner=LND
-controller=LND
-add_core=KON
-add_core=LND
-add_core=SYO
-add_core=YKA
-trade_goods = grain
-life_rating = 15

@@ -1,6 +1,0 @@
-owner=IME
-controller=IME
-add_core=GEO
-add_core=IME
-trade_goods = wool
-life_rating = 35

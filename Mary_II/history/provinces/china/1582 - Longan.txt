@@ -1,7 +1,0 @@
-owner=MNG
-controller=MNG
-add_core=MNG
-add_core=UTS
-add_core=TIB
-trade_goods = coal
-life_rating = 32

@@ -1,6 +1,0 @@
-owner=NET
-controller=NET
-add_core=NET
-trade_goods = coffee
-life_rating = 15
-colonial=2

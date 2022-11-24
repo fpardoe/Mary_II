@@ -1,8 +1,0 @@
-owner=SPA
-controller=FRA
-add_core=USA
-add_core=SPA
-trade_goods = grain
-life_rating = 40
-colonial=2
-railroad = 1

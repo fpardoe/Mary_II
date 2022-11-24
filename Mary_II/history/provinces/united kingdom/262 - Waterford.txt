@@ -1,7 +1,0 @@
-owner=IRE
-controller=IRE
-add_core=DMS
-add_core=IRE
-add_core=TYR
-trade_goods = fish
-life_rating = 35

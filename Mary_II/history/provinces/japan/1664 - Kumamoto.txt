@@ -1,6 +1,0 @@
-owner=MRI
-controller=MRI
-add_core=JAP
-add_core=MRI
-trade_goods = coal
-life_rating = 35

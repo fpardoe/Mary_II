@@ -1,8 +1,0 @@
-owner=FRA
-controller=IRE
-add_core=QUE
-add_core=HUR
-add_core=OTT
-add_core=FRA
-trade_goods = grain
-life_rating = 35

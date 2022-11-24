@@ -1,9 +1,0 @@
-owner=RUS
-controller=MKS
-add_core=YRK
-add_core=KRC
-add_core=RUS
-add_core=KHA
-add_core=MGL
-trade_goods = cattle
-life_rating = 35

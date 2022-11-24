@@ -1,8 +1,0 @@
-union=
-{
-	first="SPA"
-	second="TUS"
-	start_date="1779.4.18"
-	end_date="1936.1.1"
-}
-

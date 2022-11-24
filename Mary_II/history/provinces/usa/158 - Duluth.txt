@@ -1,5 +1,0 @@
-owner=SIO
-controller=SIO
-add_core=SIO
-trade_goods = iron
-life_rating = 35

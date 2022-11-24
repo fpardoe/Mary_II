@@ -1,8 +1,0 @@
-owner=MRI
-controller=MRI
-add_core=JAP
-add_core=MRI
-add_core=OTM
-add_core=SHN
-trade_goods = tea
-life_rating = 35

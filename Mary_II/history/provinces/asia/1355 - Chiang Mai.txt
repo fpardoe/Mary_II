@@ -1,8 +1,0 @@
-owner=BUR
-controller=BUR
-add_core=SIA
-add_core=LNA
-add_core=BUR
-add_core=IDO
-trade_goods = opium
-life_rating = 30

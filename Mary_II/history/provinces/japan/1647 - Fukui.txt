@@ -1,7 +1,0 @@
-owner=MRI
-controller=MRI
-add_core=JAP
-add_core=MAE
-add_core=MRI
-trade_goods = fish
-life_rating = 35

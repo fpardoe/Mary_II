@@ -1,0 +1,228 @@
+song = {
+	name = "gott_erhalte.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "venice.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "God_Save_Ireland.mp3"
+	chance = {
+		factor = 3
+	}
+}
+song = {
+	name = "again_a_rose.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "And-Did-Those-Feet-Jerusalem-2-verses-Orchestral-2019.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Dancing_Willow_-_Demo-CD_2007_02_-_The_foggy_dew.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Eric_M_Armour_-_14_-_Scotland_the_Brave.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "HighlandCathedral_slow_march.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "StPatricksDayInTheMorning_march.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "WearingOfTheGreen_march.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "welsh_nat_anth_VOICE.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Yma-o-Hyd.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "BlackBear_march.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "MARCH42.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Wakanda.mp3"
+	chance = {
+		factor = 1.5
+	}
+}
+song = {
+	name = "Radetzky_March.mp3"
+	chance = {
+		factor = 1.5
+	}
+}
+song = {
+	name = "Marcha_Real.mp3"
+	chance = {
+		factor = 2
+	}
+}
+song = {
+	name = "adayatthecourt.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "buckinghampalace.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "countryside.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "deathofprincealbert.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "europeanno1850.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "forgodandqueen.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "handelthis.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "inventions.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "johanswaltz.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "newworldanthem.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "poverty.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "queensscherzo.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "russia1917.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "thecoronation_titletheme.mp3"
+	chance = { 
+		factor = 1 
+	}
+}
+song = {
+	name = "theroyalmarch.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "wehaveindependence.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "winter.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "battlehymnoftherepublic.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "marchingthroughgeorgia.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "jonnycomesmarchinghome.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "ohimagoodolrebel.mp3"
+	chance = {
+		factor = 1
+	}
+}

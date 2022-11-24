@@ -1,0 +1,20 @@
+owner=MAG
+controller=MAG
+add_core=KOL
+add_core=MAG
+add_core=GER
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

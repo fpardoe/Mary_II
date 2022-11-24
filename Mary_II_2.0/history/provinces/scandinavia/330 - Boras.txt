@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=NET
+add_core=SWE
+add_core=SCA
+add_core=HRE
+trade_goods = fish
+life_rating = 35

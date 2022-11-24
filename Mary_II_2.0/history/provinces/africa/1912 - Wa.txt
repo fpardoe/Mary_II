@@ -1,0 +1,8 @@
+owner=DAH
+controller=DAH
+add_core=ASH
+add_core=BON
+add_core=DAH
+add_core=KNG
+trade_goods = grain
+life_rating = 15

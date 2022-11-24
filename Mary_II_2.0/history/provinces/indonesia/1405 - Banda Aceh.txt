@@ -1,0 +1,9 @@
+owner=FRA
+controller=FRA
+add_core=ATJ
+add_core=BRU
+add_core=FRA
+add_core=PGR
+add_core=MLY
+trade_goods = grain
+life_rating = 30

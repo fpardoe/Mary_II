@@ -1,0 +1,8 @@
+owner=SPA
+controller=SPA
+add_core=AIN
+add_core=SPA
+add_core=UES
+add_core=JAP
+trade_goods = coal
+life_rating = 35

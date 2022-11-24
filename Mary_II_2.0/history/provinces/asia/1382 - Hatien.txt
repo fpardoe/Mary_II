@@ -1,0 +1,8 @@
+owner=MNG
+controller=MNG
+add_core=CAM
+add_core=MNG
+add_core=DAI
+add_core=IDO
+trade_goods = tropical_wood
+life_rating = 30

@@ -1,0 +1,9 @@
+owner=SMI
+controller=SMI
+add_core=NOR
+add_core=SWE
+add_core=SMI
+add_core=SCA
+trade_goods = iron
+life_rating = 35
+fort = 2

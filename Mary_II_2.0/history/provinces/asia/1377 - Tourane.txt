@@ -1,0 +1,7 @@
+owner=MNG
+controller=MNG
+add_core=ANN
+add_core=DAI
+add_core=MNG
+trade_goods = tobacco
+life_rating = 30

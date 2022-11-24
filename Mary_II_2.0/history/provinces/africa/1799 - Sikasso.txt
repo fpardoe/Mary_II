@@ -1,0 +1,9 @@
+owner=MLI
+controller=MLI
+add_core=SGU
+add_core=SGH
+add_core=JNN
+add_core=KNG
+add_core=MLI
+trade_goods = cotton
+life_rating = 15

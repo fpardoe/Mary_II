@@ -1,0 +1,749 @@
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=355
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=282
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=46
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=59
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=16986
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=73
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=573
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=93
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=27
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=120
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=2736
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=178
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=285
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=46
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=9
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=60
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=17224
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=18
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=286
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=46
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=9
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=60
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=1376
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size=18
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size=285
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size=46
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=9
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=60
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size=1347
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=704
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=554
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=26
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=116
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=33681
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=149
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=1152
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=187
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=55
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=242
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=5659
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=329
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=264
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=43
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=55
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=15758
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=66
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=526
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=85
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=25
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=110
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=2453
+	}
+
+}
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=192
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=148
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=24
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=31
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=9175
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=44
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=322
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=52
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=68
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1672
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=192
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=148
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=24
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=7
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=31
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=9175
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=44
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=322
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=52
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=68
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1672
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=191
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=148
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=27
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=7
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=31
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=9160
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size=44
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size=323
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size=58
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=15
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=68
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size=1674
+	}
+
+}

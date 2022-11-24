@@ -1,0 +1,7 @@
+owner=TUR
+controller=TUR
+add_core=AFA
+add_core=TUR
+add_core=JIM
+trade_goods = grain
+life_rating = 30

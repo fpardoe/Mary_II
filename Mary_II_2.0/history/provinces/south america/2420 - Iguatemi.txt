@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=PRG
+add_core=SPA
+trade_goods = sulphur
+life_rating = 25
+colonial=2

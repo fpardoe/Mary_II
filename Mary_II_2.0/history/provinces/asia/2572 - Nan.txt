@@ -1,0 +1,8 @@
+owner=MNG
+controller=MNG
+add_core=LNA
+add_core=MNG
+add_core=IDO
+add_core=SIA
+trade_goods = opium
+life_rating = 30

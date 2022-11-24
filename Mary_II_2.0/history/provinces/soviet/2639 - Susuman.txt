@@ -1,0 +1,6 @@
+owner=RUS
+controller=MKS
+add_core=RUS
+trade_goods = fish
+life_rating = 35
+naval_base = 1

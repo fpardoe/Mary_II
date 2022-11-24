@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=MDR
+add_core=SPA
+add_core=HND
+trade_goods = tea
+life_rating = 32

@@ -1,0 +1,104 @@
+capital=2026
+primary_culture = luo
+culture = african_minor
+culture = baganda
+religion = shamanism
+government = absolute_monarchy
+plurality=0.000000
+nationalvalue=nv_order
+literacy=0.840000
+civilized=yes
+
+# Social Reforms
+wage_reform = good_minimum_wage
+work_hours = ten_hours
+safety_regulations = good_safety
+health_care = good_health_care
+unemployment_subsidies = acceptable_subsidies
+pensions = good_pensions
+school_reforms = good_schools
+
+# political reforms
+slavery=no_slavery
+vote_franschise=none_voting
+upper_house_composition=appointed
+voting_system=first_past_the_post
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=underground_parties
+
+ruling_party=X03_conservative
+upper_house=
+{
+	fascist = 0
+	liberal = 23
+	conservative = 52
+	reactionary = 25
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+muzzle_loaded_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+iron_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+
+clipper_design = 1
+
+no_standard = 1
+ad_hoc_money_bill_printing=1
+guild_based_production = 1
+organized_factories = 1
+private_banks = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+market_structure=1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+idealism=1
+enlightenment_thought = 1
+
+water_wheel_power = 1
+practical_steam_engine=1
+publishing_industry = 1
+mechanical_production = 1
+mechanized_mining = 1
+clean_coal=1
+cheap_iron=1
+experimental_railroad=1
+early_railroad=1
+basic_chemistry = 1
+medicine=1
+inorganic_chemistry=1
+organic_chemistry=1
+
+precision_work = 1
+
+land_reform=yes_land_reform
+admin_reform=yes_admin_reform
+finance_reform=yes_finance_reform
+education_reform=yes_education_reform
+transport_improv=yes_transport_improv
+pre_indust=yes_pre_indust
+industrial_construction=yes_industrial_construction
+foreign_training=yes_foreign_training
+foreign_weapons=yes_foreign_weapons
+military_constructions=yes_military_constructions
+foreign_officers=yes_foreign_officers
+army_schools=yes_army_schools
+foreign_naval_officers=yes_foreign_naval_officers
+naval_schools=yes_naval_schools
+foreign_navies=yes_foreign_navies
+prestige=0.000000
+oob = "X03_OOB.txt"

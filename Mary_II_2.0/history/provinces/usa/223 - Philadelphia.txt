@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=X10
+add_core=LEN
+add_core=NET
+trade_goods = iron
+life_rating = 40
+railroad = 1

@@ -1,0 +1,690 @@
+1818 = {
+	slaves=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=962
+	}
+
+	soldiers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=96
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=640
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=8
+	}
+
+	officers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=134
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=7664
+	}
+
+	slaves=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=2789
+	}
+
+	soldiers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=279
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=861
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=144
+	}
+
+	bureaucrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=11
+	}
+
+	officers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=181
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=23615
+	}
+
+}
+1819 = {
+	slaves=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=14042
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=1685
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=274
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=21
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=34
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=354
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = shamanism
+		size=24684
+	}
+
+}
+1820 = {
+	soldiers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=96
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=640
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=8
+	}
+
+	officers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=134
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = shamanism
+		size=8626
+	}
+
+	soldiers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=279
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=861
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=144
+	}
+
+	bureaucrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=11
+	}
+
+	officers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=181
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=26404
+	}
+
+}
+1821 = {
+	slaves=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=11218
+	}
+
+	soldiers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=477
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=1906
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=319
+	}
+
+	bureaucrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=43
+	}
+
+	officers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=400
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = sunni
+		size=33250
+	}
+
+}
+1822 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size=275
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size=150
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size=600
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size=150
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size=10825
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=175
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=3650
+	}
+
+}
+1823 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size=350
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size=175
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size=725
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size=200
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size=13550
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=2700
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=50
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=25
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=1800
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=3000
+	}
+
+}
+1824 = {
+	slaves=
+	{
+		culture = kanuri
+		religion = sunni
+		size=10399
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size=407
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = sunni
+		size=1629
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = sunni
+		size=273
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size=20
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = sunni
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size=342
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size=27627
+	}
+
+}
+1825 = {
+	aristocrats=
+	{
+		culture = teda
+		religion = sunni
+		size=300
+	}
+
+	clergymen=
+	{
+		culture = teda
+		religion = sunni
+		size=150
+	}
+
+	artisans=
+	{
+		culture = teda
+		religion = sunni
+		size=800
+	}
+
+	soldiers=
+	{
+		culture = teda
+		religion = sunni
+		size=175
+	}
+
+	farmers=
+	{
+		culture = teda
+		religion = sunni
+		size=14575
+	}
+
+	aristocrats=
+	{
+		culture = tuareg
+		religion = sunni
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = tuareg
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = tuareg
+		religion = sunni
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = tuareg
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = tuareg
+		religion = sunni
+		size=1800
+	}
+
+}
+1826 = {
+	aristocrats=
+	{
+		culture = teda
+		religion = sunni
+		size=125
+	}
+
+	clergymen=
+	{
+		culture = teda
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = teda
+		religion = sunni
+		size=350
+	}
+
+	soldiers=
+	{
+		culture = teda
+		religion = sunni
+		size=75
+	}
+
+	farmers=
+	{
+		culture = teda
+		religion = sunni
+		size=6375
+	}
+
+}

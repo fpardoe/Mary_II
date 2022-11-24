@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=X09
+add_core=CHN
+add_core=SPA
+trade_goods = cotton
+life_rating = 35

@@ -1,0 +1,349 @@
+1189 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=1603
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=289
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=20
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=337
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=81707
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=159
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=2240
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=403
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=28
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=470
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=4608
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=1638
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=933
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=168
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=12
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=196
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=78917
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=704
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=3751
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=675
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=47
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=788
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = gelugpa
+		size=29184
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=108
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=338
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=61
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=4
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=71
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=4800
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size=1208
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size=3764
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size=677
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size=47
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size=790
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size=53853
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=2891
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=4311
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=776
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=54
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=86
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=905
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size=135514
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=KLE
+controller=KLE
+add_core=HES
+add_core=KLE
+add_core=GER
+add_core=HRE
+trade_goods = fruit
+life_rating = 40
+fort = 1

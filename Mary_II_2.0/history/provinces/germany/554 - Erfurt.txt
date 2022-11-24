@@ -1,0 +1,21 @@
+owner=BAV
+controller=BAV
+add_core=BAV
+add_core=KOL
+add_core=SAX
+add_core=GER
+add_core=HRE
+trade_goods = iron
+life_rating = 40
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

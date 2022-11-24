@@ -1,0 +1,8 @@
+owner=SPA
+controller=SPA
+add_core=FRA
+add_core=PGR
+add_core=SPA
+add_core=MLY
+trade_goods = tobacco
+life_rating = 30

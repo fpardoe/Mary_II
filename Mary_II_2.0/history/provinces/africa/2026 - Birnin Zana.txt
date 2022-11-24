@@ -1,0 +1,37 @@
+owner=X03
+controller=X03
+add_core=X03
+trade_goods = iron
+life_rating = 74
+fort = 4
+railroad = 4
+state_building=
+{
+	level=4
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=7
+	building = fabric_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=7
+	building = dye_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=4
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=7
+	building = steel_factory
+	upgrade = yes
+}

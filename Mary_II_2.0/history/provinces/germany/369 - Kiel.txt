@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=NET
+add_core=HOL
+add_core=GER
+add_core=HRE
+trade_goods = cattle
+life_rating = 40

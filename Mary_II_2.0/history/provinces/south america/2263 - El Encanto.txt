@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=CLM
+add_core=SPA
+trade_goods = timber
+life_rating = 25
+colonial=2

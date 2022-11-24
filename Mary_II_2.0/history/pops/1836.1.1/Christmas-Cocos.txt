@@ -1,0 +1,200 @@
+2244 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=299
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=171
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=5
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=36
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=14419
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=128
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=684
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=123
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=21
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=144
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=5295
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=213
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=238
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=39
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=14
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=50
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=20726
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=94
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=990
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=161
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=59
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=208
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=7863
+	}
+
+}

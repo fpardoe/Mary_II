@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=YRK
+add_core=RUS
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32

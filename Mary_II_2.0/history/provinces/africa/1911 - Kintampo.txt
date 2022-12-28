@@ -1,7 +1,0 @@
-owner=DAH
-controller=GBU
-add_core=ASH
-add_core=BON
-add_core=DAH
-trade_goods = cattle
-life_rating = 15

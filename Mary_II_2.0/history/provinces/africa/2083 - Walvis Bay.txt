@@ -1,8 +1,0 @@
-owner=LBR
-controller=LBR
-add_core=IRE
-add_core=LBR
-trade_goods = wool
-life_rating = 15
-fort = 2
-

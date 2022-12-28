@@ -1,0 +1,20 @@
+political_decisions = {
+
+	buy_boats = {
+#		image = the_vega_expedition
+		potential = {
+ 			civilized = no
+		}
+ 		allow = {
+			money = 23744.22
+ 			civilized = no
+ 		}
+		effect = {
+			treasury = -23744.22
+			clipper_convoy = 224
+		}
+		ai_will_do = {
+			factor = 0.5
+		}
+	}
+}

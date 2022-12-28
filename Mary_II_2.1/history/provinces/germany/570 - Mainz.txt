@@ -1,0 +1,29 @@
+owner=KLE
+controller=KLE
+add_core=BAV
+add_core=HES
+add_core=KLE
+add_core=MAI
+add_core=NAS
+add_core=GER
+add_core=HRE
+trade_goods = sulphur
+life_rating = 40
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=3
+	building = explosives_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=2
+	building = fertilizer_factory
+	upgrade = yes
+}

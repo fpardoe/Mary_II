@@ -1,0 +1,7 @@
+owner=SPA
+controller=MNG
+add_core=SPA
+add_core=IDO
+add_core=BUR
+trade_goods = fish
+life_rating = 30

@@ -1,0 +1,14 @@
+owner=AUS
+controller=AUS
+add_core=BOH
+add_core=AUS
+add_core=CZH
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+state_building=
+{
+	level=3
+	building = steel_factory
+	upgrade = yes
+}

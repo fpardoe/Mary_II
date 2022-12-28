@@ -1,7 +1,0 @@
-owner=NET
-controller=BAV
-add_core=NET
-add_core=GER
-add_core=HRE
-trade_goods = cattle
-life_rating = 40
